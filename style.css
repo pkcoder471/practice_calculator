@@ -1,0 +1,52 @@
+.cal{
+    background-color: lightgray;
+    height: 500px;
+    width: 500px;
+    margin-left: 40%;
+}
+.heading{
+    background-color: black;
+    margin-top: 10px;
+    height: 40px;
+    width: 480px;
+    margin: 10px;
+}
+.heading p{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+    height: 80px;
+    background-color: white;
+    width: 480px;
+    margin: 10px;
+}
+.buttons{
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 480px;
+    justify-content: space-between;
+    margin: 10px;
+    margin-top: 10px;
+}
+.buttons div{
+    background-color: white;
+    height: 67px;
+    width: 118px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+.red{
+    background-color: red!important;
+}
+.zero{
+    width: 238px !important;
+}
+.txt{
+    
+}
